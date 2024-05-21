@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DenizMohammadzade
+- 👋 Hi, I’m @DenizMohammadzadeh
 - 👀 I’m interested in DeepLearning and MachineLearning
 - 🌱 I’m currently learning DeepLearning #"No matter how well you master a subject, you still need to keep your knowledge up to date: Forever."
 - 💞️ I’m looking to collaborate on field of DeepLearning and ComputerVision #SelfDRivingCar
