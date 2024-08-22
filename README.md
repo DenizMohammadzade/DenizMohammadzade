@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deniz Mohammadzadeh</h1>
 <h3 align="center">A passionate Artificial Intelligence from Iran</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-girl-gif-2332171326726785246"
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTk0NzAxOGxnbWQ0NGd5eGZvbXhzZGlnZTl5cmZleWF6N3IydmR1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denizmohammadzade&label=Profile%20views&color=0e75b6&style=flat" alt="denizmohammadzade" /> </p>
 
